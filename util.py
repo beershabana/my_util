@@ -1,2 +1,3 @@
-Print[A+B]
-Print[A-B]
+Print["shabana"]
+Print["beermohamed"]
+Print["muhamed zain"]
